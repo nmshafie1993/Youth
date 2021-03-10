@@ -6,7 +6,7 @@ https://www.cdc.gov/healthyyouth/data/yrbs/index.htm <br>
 The surveys conducted between 1991 and 2017 and filled by male and female youth between 12-18. <br>
 
 
-# Project Description and Results (Why literacy is important?) 
+# Project Description and Results
 ### Are you in a hurry?
 - To have a quick understanding of this project, please watch the brief below video (it is only 5 Min)<br>
 (click on the image below)
